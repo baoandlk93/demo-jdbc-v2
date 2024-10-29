@@ -1,7 +1,7 @@
 package com.baoandev.demojdbcv2.controller;
 
 import com.baoandev.demojdbcv2.model.service.IProductService;
-import com.baoandev.demojdbcv2.model.service.ProductService;
+import com.baoandev.demojdbcv2.model.service.impl.ProductService;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

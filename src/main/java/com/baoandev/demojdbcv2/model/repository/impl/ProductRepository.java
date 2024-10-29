@@ -1,6 +1,7 @@
-package com.baoandev.demojdbcv2.model.repository;
+package com.baoandev.demojdbcv2.model.repository.impl;
 
 import com.baoandev.demojdbcv2.model.entity.Product;
+import com.baoandev.demojdbcv2.model.repository.IProductRepository;
 import com.baoandev.demojdbcv2.model.ultilities.DataConnection;
 
 import java.sql.Connection;

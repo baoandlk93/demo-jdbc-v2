@@ -1,8 +1,9 @@
-package com.baoandev.demojdbcv2.model.service;
+package com.baoandev.demojdbcv2.model.service.impl;
 
 import com.baoandev.demojdbcv2.model.entity.Product;
 import com.baoandev.demojdbcv2.model.repository.IProductRepository;
-import com.baoandev.demojdbcv2.model.repository.ProductRepository;
+import com.baoandev.demojdbcv2.model.repository.impl.ProductRepository;
+import com.baoandev.demojdbcv2.model.service.IProductService;
 
 import java.util.List;
 
